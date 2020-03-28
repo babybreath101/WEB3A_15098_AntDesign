@@ -35,7 +35,7 @@ class Navbar extends Component {
              Gallery
         </Menu.Item>
         <Menu.Item key="alipay">
-          <a href="https://github.com/vickyhermawan" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/babybreath101" target="_blank" rel="noopener noreferrer">
             Github
           </a>
         </Menu.Item>
