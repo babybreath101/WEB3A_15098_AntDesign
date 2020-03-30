@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/WEB3A_15098_AntDesign/static/css/main.2814498e.chunk.css",
+    "main.js": "/WEB3A_15098_AntDesign/static/js/main.1e5283b8.chunk.js",
+    "main.js.map": "/WEB3A_15098_AntDesign/static/js/main.1e5283b8.chunk.js.map",
+    "runtime-main.js": "/WEB3A_15098_AntDesign/static/js/runtime-main.fd945aad.js",
+    "runtime-main.js.map": "/WEB3A_15098_AntDesign/static/js/runtime-main.fd945aad.js.map",
+    "static/css/2.2fbe55bd.chunk.css": "/WEB3A_15098_AntDesign/static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.04778773.chunk.js": "/WEB3A_15098_AntDesign/static/js/2.04778773.chunk.js",
+    "static/js/2.04778773.chunk.js.map": "/WEB3A_15098_AntDesign/static/js/2.04778773.chunk.js.map",
+    "index.html": "/WEB3A_15098_AntDesign/index.html",
+    "precache-manifest.1b535811f0f4d1a739f7c8fa110d9e1e.js": "/WEB3A_15098_AntDesign/precache-manifest.1b535811f0f4d1a739f7c8fa110d9e1e.js",
+    "service-worker.js": "/WEB3A_15098_AntDesign/service-worker.js",
+    "static/css/2.2fbe55bd.chunk.css.map": "/WEB3A_15098_AntDesign/static/css/2.2fbe55bd.chunk.css.map",
+    "static/css/main.2814498e.chunk.css.map": "/WEB3A_15098_AntDesign/static/css/main.2814498e.chunk.css.map",
+    "static/js/2.04778773.chunk.js.LICENSE.txt": "/WEB3A_15098_AntDesign/static/js/2.04778773.chunk.js.LICENSE.txt",
+    "static/media/buku.jpg": "/WEB3A_15098_AntDesign/static/media/buku.260fd0f8.jpg",
+    "static/media/kaki.jpg": "/WEB3A_15098_AntDesign/static/media/kaki.29d106f8.jpg",
+    "static/media/kakii.jpg": "/WEB3A_15098_AntDesign/static/media/kakii.eb9723ae.jpg",
+    "static/media/kopi.jpg": "/WEB3A_15098_AntDesign/static/media/kopi.f061b40d.jpg",
+    "static/media/profil1.jpg": "/WEB3A_15098_AntDesign/static/media/profil1.2802dead.jpg",
+    "static/media/profil2.jpg": "/WEB3A_15098_AntDesign/static/media/profil2.1eaed372.jpg",
+    "static/media/profil3.jpg": "/WEB3A_15098_AntDesign/static/media/profil3.414bdcb8.jpg",
+    "static/media/radio.jpg": "/WEB3A_15098_AntDesign/static/media/radio.94193d67.jpg",
+    "static/media/tangan.jpg": "/WEB3A_15098_AntDesign/static/media/tangan.490d776c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd945aad.js",
+    "static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.04778773.chunk.js",
+    "static/css/main.2814498e.chunk.css",
+    "static/js/main.1e5283b8.chunk.js"
+  ]
+}
