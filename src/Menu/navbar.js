@@ -4,9 +4,9 @@ import './navbar.css';
 import {
   MailOutlined,
   AppstoreOutlined,
-  SettingOutlined,
-} from '@ant-design/icons';
 
+} from '@ant-design/icons';
+import { Link } from 'react-router-dom';
 
 const { SubMenu } = Menu;
 
@@ -28,14 +28,14 @@ class Navbar extends Component {
       <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
         <Menu.Item key="mail">
           <MailOutlined />
-            Home
+          <Link to="/">Home</Link>
         </Menu.Item>
         <Menu.Item key="app">
           <AppstoreOutlined />
-             Gallery
+          <Link to="/galeri">My Gallery</Link>
         </Menu.Item>
         <Menu.Item key="alipay">
-          <a href="https://github.com/vickyhermawan" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/babybreath101" target="_blank" rel="noopener noreferrer">
             Github
           </a>
         </Menu.Item>

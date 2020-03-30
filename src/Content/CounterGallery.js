@@ -5,7 +5,7 @@ import './Content.css';
 
 const { Meta } = Card;
 
-class Counter extends React.Component {
+class CounterGallery extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -27,7 +27,7 @@ class Counter extends React.Component {
     }
 
     render() {
-        const { caption, name, img , ava , link } = this.props;
+        const { caption, date, img , link } = this.props;
         return (
             <div>
                 <Card 
@@ -48,9 +48,8 @@ class Counter extends React.Component {
                     ]}
                 >
                     <Meta
-                        avatar={<Avatar src={ava} />}
                         title={caption}
-                        description={name}
+                        description={date}
                     />
                 </Card>
             </div>
@@ -58,4 +57,4 @@ class Counter extends React.Component {
     }
 }
 
-export default Counter;
+export default CounterGallery;
